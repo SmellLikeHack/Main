@@ -1,1 +1,2 @@
 # Main-
+game.Players.LocalPlayer:Kick("Banned!")
